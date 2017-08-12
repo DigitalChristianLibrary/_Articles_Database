@@ -14,7 +14,7 @@ When selecting file formats for archiving, the formats should ideally be:
   - Unencrypted
   - Uncompressed
   - In common usage by the research community
-  - Adherent to an open, documented standard, such as described by the State of California (see AB 1668, 2007)
+  - Adherent to an open, documented standard, such as described by the State of California
     - Interoperable among diverse platforms and applications
     - Fully published and available royalty-free
     - Fully and independently implementable by multiple software providers on multiple platforms without any intellectual property restrictions for necessary technology
