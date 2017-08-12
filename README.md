@@ -19,5 +19,17 @@ When selecting file formats for archiving, the formats should ideally be:
     - Fully published and available royalty-free
     - Fully and independently implementable by multiple software providers on multiple platforms without any intellectual property restrictions for necessary technology
     - Developed and maintained by an open standards organization with a well-defined inclusive process for evolution of the standard.
-    
+ 
+ ### Some preferred file formats
+  - Containers: TAR, GZIP, ZIP
+  - Databases: XML, CSV
+  - Geospatial: SHP, DBF, GeoTIFF, NetCDF
+  - Moving images: MOV, MPEG, AVI, MXF
+  - Sounds: WAVE, AIFF, MP3, MXF
+  - Statistics: ASCII, DTA, POR, SAS, SAV
+  - Still images: TIFF, JPEG 2000, PDF, PNG, GIF, BMP
+  - Tabular data: CSV
+  - Text: XML, PDF/A, HTML, ASCII, UTF-8
+  - Web archive: WARC
+
 [Source: Stanford Library](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-formats)
